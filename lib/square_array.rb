@@ -4,7 +4,6 @@ def square_array(array)
   new_array = []
   counter = 0
   while counter < array.length
-    array.index do |i|
-    i ** 2 
+    array ** 2 
     end
   end
