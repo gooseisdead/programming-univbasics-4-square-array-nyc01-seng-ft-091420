@@ -5,6 +5,5 @@ def square_array(array)
   counter = 0
   while counter < 3 do
     array.index ** 2
-  end
     end
   end
